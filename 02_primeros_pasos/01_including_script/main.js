@@ -1,3 +1,3 @@
 alert('Hola mundo');
 
-console.log('Hola consola!!')
+console.log('Hola consola!!');

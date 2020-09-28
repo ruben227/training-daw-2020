@@ -1,7 +1,7 @@
 alert('Hola mundo");
 
 
-consola.log('Holaa consola!!')
+consola.log('Holaa consoola!!')
 
 consola.log('Hola consolaaa desde master!!')
 
